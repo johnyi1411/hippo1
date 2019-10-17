@@ -1,0 +1,13 @@
+#initial {
+  left: 0px;
+  position: absolute;
+}
+
+#clicked {
+  left: 200px;
+  position: absolute;
+}
+
+form {
+  display: inline-block;
+}
